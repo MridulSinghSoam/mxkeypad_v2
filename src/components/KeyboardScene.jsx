@@ -42,9 +42,9 @@ function SmartKeyRail({
         smoothness={4}
       >
         <meshStandardMaterial
-          color="#171d24"
-          metalness={0.75}
-          roughness={0.3}
+          color="#4c4d4f"
+          metalness={0.8}
+          roughness={0.1}
         />
       </RoundedBox>
 

@@ -31,7 +31,7 @@ export default function SmartKey({
         }}
       >
         <meshStandardMaterial
-          color={hovered || active ? "#202b35" : "#11171e"}
+          color={hovered || active ? "#767b80" : "#474a4f"}
           metalness={0.7}
           roughness={0.25}
         />
